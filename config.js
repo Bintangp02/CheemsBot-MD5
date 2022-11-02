@@ -15,9 +15,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['6289647417373'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.ownername = "bntgp02" //ur owner name
+global.ytname = "YT: bntgp02" //ur yt chanel name
+global.socialm = "GitHub: Bintangp02" //ur github or insta name
 global.location = "Indonsia, Jateng, Semarang" //ur location
 
 //bot bomdy 
@@ -26,7 +26,7 @@ global.ownernomer = "6289647417373" //ur number
 global.ownertag = '6289647417373' //ur tag number
 global.premium = ['6289647417373'] //ur premium number
 global.botname = 'Bntg Bot V5' //ur bot name
-global.ownername = "🦄Dream Guy Xeon"
+global.ownername = "bntgp02"
 global.linkz = "https://youtu.be/Bintangp02" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/Bintangp02" //ur website to be displayed
 global.botscript = 'https://github.com/Bintangp02' //script link
