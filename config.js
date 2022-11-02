@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = true //auto recording (true to on, false to off)
+global.autoRecord = false //auto recording (true to on, false to off)
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -14,26 +14,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
+global.vcardowner = ['6289647417373'] //ur owner number
 global.ownername = "🦄Dream Guy Xeon" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Indonsia, Jateng, Semarang" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213'] //ur number
-global.ownernomer = "916909137213" //ur number
-global.ownertag = '916909137213' //ur tag number
-global.premium = ['916909137213'] //ur premium number
-global.botname = 'Cheems Bot V5' //ur bot name
+global.owner = ['6289647417373'] //ur number
+global.ownernomer = "6289647417373" //ur number
+global.ownertag = '6289647417373' //ur tag number
+global.premium = ['6289647417373'] //ur premium number
+global.botname = 'Bntg Bot V5' //ur bot name
 global.ownername = "🦄Dream Guy Xeon"
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD5' //script link
+global.linkz = "https://youtu.be/Bintangp02" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtu.be/Bintangp02" //ur website to be displayed
+global.botscript = 'https://github.com/Bintangp02' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Cheems Bot" //ur sticker watermark author
-global.wm = "Xeon Bot Inc." //ur watermark
+global.packname = "By" //ur sticker watermark packname
+global.author = "Bntgp02" //ur sticker watermark author
+global.wm = "Bntgp02" //ur watermark
 
 // Other
 global.sessionName = 'session'

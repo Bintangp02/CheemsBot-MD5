@@ -44,6 +44,11 @@
       "afkTime": -1,
       "afkReason": "",
       "limit": 25
+    },
+    "6289647417373@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 25
     }
   },
   "chats": {
@@ -85,6 +90,10 @@
     "918630998579@s.whatsapp.net": {
       "mute": false,
       "antilink": false
+    },
+    "6289647417373@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
     }
   },
   "database": {},
@@ -102,6 +111,14 @@
   },
   "settings": {
     "918798308154@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false
+    },
+    "62895321010182@s.whatsapp.net": {
       "status": 0,
       "autobio": false,
       "templateImage": true,
